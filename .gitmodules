@@ -1,0 +1,105 @@
+[submodule "freebsd"]
+	path = mainstream/freebsd
+	url = https://github.com/freebsd/freebsd-src.git
+[submodule "clone/aros"]
+	path = clone/aros
+	url = https://github.com/aros-development-team/AROS.git
+[submodule "hobby/atos"]
+	path = hobby/atos
+	url = https://github.com/alexdboxall/ATOS/
+[submodule "hobby/aurora-xeneva"]
+	path = hobby/aurora-xeneva
+	url = https://github.com/manaskamal/aurora-xeneva
+[submodule "hobby/banana"]
+	path = hobby/banana
+	url = https://github.com/alexdboxall/Banana-Operating-System
+[submodule "hobby/brutal"]
+	path = hobby/brutal
+	url = https://github.com/brutal-org/brutal
+[submodule "hobby/fox_os"]
+	path = hobby/fox_os
+	url = https://github.com/TheUltimateFoxOS/FoxOS
+[submodule "mainstream/freedos"]
+	path = mainstream/freedos
+	url = https://github.com/FDOS/kernel.git
+[submodule "historic/ms-dos"]
+	path = historic/ms-dos
+	url = https://github.com/microsoft/MS-DOS
+[submodule "hobby/grean-tea-os"]
+	path = hobby/grean-tea-os
+	url = https://github.com/GreenteaOS/Tofita
+[submodule "clone/haiku"]
+	path = clone/haiku
+	url = https://review.haiku-os.org/haiku
+[submodule "hobby/helenos"]
+	path = hobby/helenos
+	url = https://github.com/HelenOS/helenos
+[submodule "hobby/lemonos"]
+	path = hobby/lemonos
+	url = https://github.com/LemonOSProject/LemonOS
+[submodule "hobby/managarm"]
+	path = hobby/managarm
+	url = https://github.com/managarm/managarm
+[submodule "hobby/nexos"]
+	path = hobby/nexos
+	url = https://github.com/nexos-dev/nexnix
+[submodule "historic/mvs380"]
+	path = historic/mvs380
+	url = https://git.code.sf.net/p/mvs380/mvs380
+[submodule "hobby/templeos"]
+	path = hobby/templeos
+	url = https://github.com/cia-foundation/TempleOS
+[submodule "historic/9front"]
+	path = historic/9front
+	url = https://github.com/martijn-heil/9front
+[submodule "utils/rbil"]
+	path = utils/rbil
+	url = https://github.com/cirosantilli/ralf-brown-interrupt-list.git
+[submodule "mainstream/dragonfly"]
+	path = mainstream/dragonfly
+	url = git://git.dragonflybsd.org/dragonfly.git
+[submodule "historic/es-operating-system"]
+	path = historic/es-operating-system
+	url = https://github.com/mattl/es-operating-system
+[submodule "mainstream/reactos"]
+	path = mainstream/reactos
+	url = https://github.com/reactos/reactos
+[submodule "utils/qemu"]
+	path = utils/qemu
+	url = https://github.com/qemu/qemu
+[submodule "historic/basic-dos"]
+	path = clone/basic-dos
+	url = https://github.com/jeffpar/basicdos
+[submodule "hobby/skift"]
+	path = hobby/skift
+	url = https://github.com/skift-org/skift.git
+[submodule "micro/tock"]
+	path = micro/tock
+	url = https://github.com/tock/tock
+[submodule "hobby/mezzano"]
+	path = hobby/mezzano
+	url = https://github.com/froggey/Mezzano
+[submodule "libs/musl"]
+	path = libs/musl
+	url = https://git.musl-libc.org/git/musl
+[submodule "libs/newlib"]
+	path = libs/newlib
+	url = https://sourceware.org/git/newlib-cygwin.git
+[submodule "mainstream/linux"]
+	path = mainstream/linux
+	url = https://github.com/torvalds/linux
+[submodule "micro/freertos"]
+	path = micro/freertos
+	url = https://github.com/FreeRTOS/FreeRTOS.git
+[submodule "edu/xv6"]
+	path = edu/xv6
+	url = https://github.com/mit-pdos/xv6-public.git
+[submodule "historic/riscos"]
+	path = historic/riscos
+	url = https://gitlab.riscosopen.org/RiscOS/Sources/Kernel.git
+[submodule "edu/minix"]
+	path = edu/minix
+	url = https://github.com/Stichting-MINIX-Research-Foundation/minix
+[submodule "hobby/kolibrios"]
+	path = hobby/kolibrios
+	url = https://repo.or.cz/kolibrios.git
