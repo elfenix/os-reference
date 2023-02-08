@@ -20,7 +20,7 @@
 	path = hobby/fox_os
 	url = https://github.com/TheUltimateFoxOS/FoxOS
 [submodule "mainstream/freedos"]
-	path = mainstream/freedos
+	path = clone/freedos
 	url = https://github.com/FDOS/kernel.git
 [submodule "historic/ms-dos"]
 	path = historic/ms-dos
@@ -47,7 +47,7 @@
 	path = historic/mvs380
 	url = https://git.code.sf.net/p/mvs380/mvs380
 [submodule "hobby/templeos"]
-	path = hobby/templeos
+	path = historic/templeos
 	url = https://github.com/cia-foundation/TempleOS
 [submodule "historic/9front"]
 	path = historic/9front
@@ -62,7 +62,7 @@
 	path = historic/es-operating-system
 	url = https://github.com/mattl/es-operating-system
 [submodule "mainstream/reactos"]
-	path = mainstream/reactos
+	path = clone/reactos
 	url = https://github.com/reactos/reactos
 [submodule "utils/qemu"]
 	path = utils/qemu
@@ -103,3 +103,33 @@
 [submodule "hobby/kolibrios"]
 	path = hobby/kolibrios
 	url = https://repo.or.cz/kolibrios.git
+[submodule "hobby/toaruos"]
+	path = hobby/toaruos
+	url = https://github.com/klange/toaruos.git
+[submodule "mainstream/lk"]
+	path = mainstream/lk
+	url = https://github.com/littlekernel/lk.git
+[submodule "edu/mach4"]
+	path = edu/mach4
+	url = https://github.com/openmach/mach4.git
+[submodule "hobby/sortix"]
+	path = hobby/sortix
+	url = https://gitlab.com/sortix/sortix.git
+[submodule "hobby/ghost"]
+	path = hobby/ghost
+	url = https://github.com/maxdev1/ghost.git
+[submodule "hobby/tilck"]
+	path = hobby/tilck
+	url = https://github.com/vvaltchev/tilck.git
+[submodule "historic/seakernel"]
+	path = historic/seakernel
+	url = https://github.com/dbittman/seakernel.git
+[submodule "historic/newsys"]
+	path = historic/vanadium
+	url = https://github.com/p-durlej/newsys.git
+[submodule "edu/l4_pistachio"]
+	path = edu/l4_pistachio
+	url = https://github.com/l4ka/pistachio
+[submodule "edu/l4_fiasco"]
+	path = edu/l4_fiasco
+	url = https://github.com/kernkonzept/fiasco.git
