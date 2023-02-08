@@ -133,3 +133,6 @@
 [submodule "edu/l4_fiasco"]
 	path = edu/l4_fiasco
 	url = https://github.com/kernkonzept/fiasco.git
+[submodule "hobby/pdos"]
+	path = hobby/pdos
+	url = https://git.code.sf.net/p/pdos/gitcode
